@@ -1,0 +1,17 @@
+[
+{
+  "directory": "D:/video/codec/PlayerMetadataRetriever/app/.cxx/Debug/4g45253n/armeabi-v7a",
+  "command": "E:\\android-studio\\android_sdk_ndk_cmake\\sdk\\ndk\\23.1.7779620\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi31 --sysroot=E:/android-studio/android_sdk_ndk_cmake/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dplayermetadataretriever_EXPORTS -ID:/video/codec/PlayerMetadataRetriever/app/src/main/cpp/include -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security -fexceptions -frtti -stdlib=libc++ -g  -fno-limit-debug-info -fPIC -o CMakeFiles\\playermetadataretriever.dir\\JMThumbnail.cpp.o -c D:\\video\\codec\\PlayerMetadataRetriever\\app\\src\\main\\cpp\\JMThumbnail.cpp",
+  "file": "D:\\video\\codec\\PlayerMetadataRetriever\\app\\src\\main\\cpp\\JMThumbnail.cpp"
+},
+{
+  "directory": "D:/video/codec/PlayerMetadataRetriever/app/.cxx/Debug/4g45253n/armeabi-v7a",
+  "command": "E:\\android-studio\\android_sdk_ndk_cmake\\sdk\\ndk\\23.1.7779620\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi31 --sysroot=E:/android-studio/android_sdk_ndk_cmake/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dplayermetadataretriever_EXPORTS -ID:/video/codec/PlayerMetadataRetriever/app/src/main/cpp/include -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security -fexceptions -frtti -stdlib=libc++ -g  -fno-limit-debug-info -fPIC -o CMakeFiles\\playermetadataretriever.dir\\JMPlayerMetadataRetriever.cpp.o -c D:\\video\\codec\\PlayerMetadataRetriever\\app\\src\\main\\cpp\\JMPlayerMetadataRetriever.cpp",
+  "file": "D:\\video\\codec\\PlayerMetadataRetriever\\app\\src\\main\\cpp\\JMPlayerMetadataRetriever.cpp"
+},
+{
+  "directory": "D:/video/codec/PlayerMetadataRetriever/app/.cxx/Debug/4g45253n/armeabi-v7a",
+  "command": "E:\\android-studio\\android_sdk_ndk_cmake\\sdk\\ndk\\23.1.7779620\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi31 --sysroot=E:/android-studio/android_sdk_ndk_cmake/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dplayermetadataretriever_EXPORTS -ID:/video/codec/PlayerMetadataRetriever/app/src/main/cpp/include -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security -fexceptions -frtti -stdlib=libc++ -g  -fno-limit-debug-info -fPIC -o CMakeFiles\\playermetadataretriever.dir\\playermetadataretriever.cpp.o -c D:\\video\\codec\\PlayerMetadataRetriever\\app\\src\\main\\cpp\\playermetadataretriever.cpp",
+  "file": "D:\\video\\codec\\PlayerMetadataRetriever\\app\\src\\main\\cpp\\playermetadataretriever.cpp"
+}
+]

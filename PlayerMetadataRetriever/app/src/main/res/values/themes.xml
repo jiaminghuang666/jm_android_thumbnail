@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.PlayerMetadataRetriever" parent="@style/Theme.Leanback" />
+</resources>

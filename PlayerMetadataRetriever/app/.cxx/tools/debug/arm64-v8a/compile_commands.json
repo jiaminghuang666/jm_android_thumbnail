@@ -1,0 +1,17 @@
+[
+{
+  "directory": "D:/video/codec/PlayerMetadataRetriever/app/.cxx/Debug/4g45253n/arm64-v8a",
+  "command": "E:\\android-studio\\android_sdk_ndk_cmake\\sdk\\ndk\\23.1.7779620\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android31 --sysroot=E:/android-studio/android_sdk_ndk_cmake/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dplayermetadataretriever_EXPORTS -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -fexceptions -frtti -stdlib=libc++ -g  -fno-limit-debug-info -fPIC -o CMakeFiles\\playermetadataretriever.dir\\JMThumbnail.cpp.o -c D:\\video\\codec\\PlayerMetadataRetriever\\app\\src\\main\\cpp\\JMThumbnail.cpp",
+  "file": "D:\\video\\codec\\PlayerMetadataRetriever\\app\\src\\main\\cpp\\JMThumbnail.cpp"
+},
+{
+  "directory": "D:/video/codec/PlayerMetadataRetriever/app/.cxx/Debug/4g45253n/arm64-v8a",
+  "command": "E:\\android-studio\\android_sdk_ndk_cmake\\sdk\\ndk\\23.1.7779620\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android31 --sysroot=E:/android-studio/android_sdk_ndk_cmake/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dplayermetadataretriever_EXPORTS -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -fexceptions -frtti -stdlib=libc++ -g  -fno-limit-debug-info -fPIC -o CMakeFiles\\playermetadataretriever.dir\\JMPlayerMetadataRetriever.cpp.o -c D:\\video\\codec\\PlayerMetadataRetriever\\app\\src\\main\\cpp\\JMPlayerMetadataRetriever.cpp",
+  "file": "D:\\video\\codec\\PlayerMetadataRetriever\\app\\src\\main\\cpp\\JMPlayerMetadataRetriever.cpp"
+},
+{
+  "directory": "D:/video/codec/PlayerMetadataRetriever/app/.cxx/Debug/4g45253n/arm64-v8a",
+  "command": "E:\\android-studio\\android_sdk_ndk_cmake\\sdk\\ndk\\23.1.7779620\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android31 --sysroot=E:/android-studio/android_sdk_ndk_cmake/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dplayermetadataretriever_EXPORTS -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -fexceptions -frtti -stdlib=libc++ -g  -fno-limit-debug-info -fPIC -o CMakeFiles\\playermetadataretriever.dir\\playermetadataretriever.cpp.o -c D:\\video\\codec\\PlayerMetadataRetriever\\app\\src\\main\\cpp\\playermetadataretriever.cpp",
+  "file": "D:\\video\\codec\\PlayerMetadataRetriever\\app\\src\\main\\cpp\\playermetadataretriever.cpp"
+}
+]

@@ -1,0 +1,6 @@
+# ninja log v5
+1	71	7385692676233925	CMakeFiles/playermetadataretriever.dir/JMPlayerMetadataRetriever.cpp.o	f791eb8d2d5c8683
+6	111	7385692676612913	CMakeFiles/playermetadataretriever.dir/playermetadataretriever.cpp.o	aef218bddb274270
+112	223	7385692677779791	D:/video/codec/PlayerMetadataRetriever/app/build/intermediates/cxx/Debug/4g45253n/obj/x86_64/libplayermetadataretriever.so	4699cb206a907441
+1	65	7385693809250120	CMakeFiles/playermetadataretriever.dir/JMThumbnail.cpp.o	bbcd660bf244293c
+66	220	7385693810795998	D:/video/codec/PlayerMetadataRetriever/app/build/intermediates/cxx/Debug/4g45253n/obj/x86_64/libplayermetadataretriever.so	cf442ca89f836fd4
